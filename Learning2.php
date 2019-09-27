@@ -1,1 +1,0 @@
-<?php header( 'Location: /Learning2.html' ) ; ?>
